@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\maksi\source\repos\OOP_GAME\OOP_GAME\Game\Game.h(63,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksi\source\repos\OOP_GAME\OOP_GAME\Game\Game.h(29): message : во время компиляции функции-члена класс шаблон "void Game<Rules<1>>::game(void)"
+C:\Users\maksi\source\repos\OOP_GAME\OOP_GAME\main.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Game<Rules<1>>::game(void)"
+C:\Users\maksi\source\repos\OOP_GAME\OOP_GAME\main.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Game<Rules<1>>"
+C:\Users\maksi\source\repos\OOP_GAME\OOP_GAME\Game\Game.h(79,24): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP_GAME.vcxproj -> C:\Users\maksi\source\repos\OOP_GAME\Debug\OOP_GAME.exe
